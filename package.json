@@ -1,0 +1,23 @@
+{
+  "name": "sk-race-timer-helper",
+  "version": "1.0.0",
+  "description": "This is SignalK plugin to provide all paths necessary for SignalK sk-race-timer Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergei/sk-race-timer-helper.git"
+  },
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-utility"
+  ],
+  "author": "Sergei Podshivalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergei/sk-race-timer-helper/issues"
+  },
+  "homepage": "https://github.com/sergei/sk-race-timer-helper#readme"
+}
